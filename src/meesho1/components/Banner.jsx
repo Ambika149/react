@@ -6,7 +6,7 @@ const Banner = () => {
                 alt="Full Screen Banner"
                 className="banner-img"
             />
-        </div>
+        </div>clear
     );
 };
 export default Banner;
