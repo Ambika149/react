@@ -1,10 +1,10 @@
 export const menimage = {
 title:"Flowers for you",
-image1 :"Men/flower.jpg",
-image2 : "Men/flower1.jpg",
-image3 :"Men/flower3.jpg",
-image4 : "Men/flower4.jpg",
-image5 : "Men/flower5.jpg"
+a :"Men/flower.jpg",
+b : "Men/flower1.jpg",
+c :"Men/flower3.jpg",
+d : "Men/flower4.jpg",
+e: "Men/flower5.jpg"
 }
 
 

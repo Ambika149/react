@@ -7,7 +7,7 @@ import Footer from "../components/Footer.jsx"    //to get inside the pages we us
 import {menimage} from "../products.js"   //we are
 import {roseimage} from "../products.js"
 import {lotusimage} from "../products.js"
-import {BrowserRouter,Route,Routes} from "react-router-dom";
+import {Route,Routes} from "react-router-dom";
 import {useState} from 'react'
 
 const MainPage=()=>{

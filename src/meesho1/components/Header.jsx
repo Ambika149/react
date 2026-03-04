@@ -4,7 +4,7 @@ const Header=()=>{
         <div className="head">
 
             <div className="left">
-                <img src="https://tinyurl.com/2r8am4pz" hight="100px" width="100px"/>
+                <img src="https://tinyurl.com/2r8am4pz" height="100px" width="100px"/>
                 </div>
 
             <div className="center">
